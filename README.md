@@ -1,7 +1,7 @@
 # Foundry Fund Me
 
 This is a section of the Cyfrin Solidity Course.
-
+I have finished this lesson!
 # Getting Started
 
 ## Requirements
@@ -39,15 +39,6 @@ forge test
 
 or 
 
-```
-// Only run test functions matching the specified regex pattern.
-
-"forge test -m testFunctionName" is deprecated. Please use 
-
-forge test --match-test testFunctionName
-```
-
-or
 
 ```
 forge test --fork-url $SEPOLIA_RPC_URL
